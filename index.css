@@ -1,4 +1,39 @@
 
+#otto {
+    border: 1px solid rgb(51, 17, 17);
+    border-radius: 10px;
+}
+
+#otto-container {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 3px;
+    background-color:#bbdbff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#otto-container hr{
+    border: 2px solid black;
+    border-radius: 2px;
+    color: cyan;
+}
+
+#ottoDiv ul {
+    width: 50%;
+}
+
+#ottoDiv p {
+    display:inline;
+    margin: 10px;
+    vertical-align: top;
+    height: 20px;
+}
+
+#ottoDiv {
+    padding: 15px;
+    display: flex;
+    justify-content: left;
+}
 
 .about-container{
     width: 80%;
